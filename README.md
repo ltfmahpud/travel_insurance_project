@@ -1,4 +1,4 @@
-# Travel Insurance Claim Prediction with ML Classification Model  
+# Predicting Travel Insurance Claims with Classification Models  
 
 ## Context  
 When someone plans a trip, especially abroad, they will face various risks that could occur. These risks include illness during the trip, ticket cancellations, or even a broken rental car. To protect themselves from these risks, many travelers choose to buy travel insurance. The insurance provides various types of coverage depending on their needs.
