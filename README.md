@@ -42,15 +42,15 @@ The purpose is to create machine learning model which can predict insured who ar
 - Feature Modifying
 
 ### Modelling Process and Optimalization  
-    - Encoding and Scaling
-    - Handling Imbalance Classification   
-    - Data Splitting
-    - Compare performance from some candidate algorithms
-    - Hyperparameter Tuning  
+- Encoding and Scaling
+- Handling Imbalance Classification   
+- Data Splitting
+- Compare performance from some candidate algorithms
+- Hyperparameter Tuning  
 
 ### Explain AI
-    - Confusion Matrix
-    - Feature Coefficient 
+- Confusion Matrix
+- Feature Coefficient 
 
 ---
 
@@ -65,7 +65,7 @@ Other metric will be used for us to understand more about the model.
 ## Tools and Technologies Used  
 
 ### Programming Language  
-- Python  
+- `Python`  
 
 ### Standard Libraries  
 - `numpy`, `pandas`: For data manipulation and analysis.  
